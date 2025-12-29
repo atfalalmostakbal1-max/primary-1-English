@@ -1,0 +1,7 @@
+{
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "name": "Primary 1 English",
+  "description": "Smart Virtual Teacher for Grade 1 children in Egypt following the Connect 1 curriculum."
+}
